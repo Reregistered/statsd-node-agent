@@ -1,6 +1,6 @@
 {
     "name": "statsd-node-agent"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "description": "Statsd node agent. Helper to send regular updates for gauges to a statsd server"
   , "keywords": ["nodejs", "statsd","client"]
   , "repository" :
