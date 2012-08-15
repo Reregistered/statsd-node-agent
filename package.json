@@ -1,0 +1,16 @@
+{
+    "name": "statsd-node-agent"
+  , "version": "0.0.1"
+  , "description": "Statsd node agent. Helper to send regular updates for gauges to a statsd server"
+  , "keywords": ["nodejs", "statsd","client"]
+  , "repository" :
+	  { "type" : "git"
+	    , "url" : "https://github.com/Reregistered/statsd-node.git"
+	  }
+  , "author": "Dov Amihod "
+  , "dependencies": {
+    "statsd-node":"*"
+  }
+  , "main": "client"
+  , "engines": { "node": ">= 0.4.0 < 0.7.0" }
+}
